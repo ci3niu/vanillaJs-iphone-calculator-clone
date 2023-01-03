@@ -1,2 +1,3 @@
-Simple VanillaJs project.
-It's a iPhone calculator clone.
+Simple VanillaJs project.  
+It's an iPhone calculator clone.  
+[DEMO](https://ci3niu.github.io/vanillaJs-iphone-calculator-clone/)
